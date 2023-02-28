@@ -21,7 +21,7 @@ int main(){
         nb2 = nb;
         nb = nb1 + nb2;
     }
-
-    
+    printf("\n La valeur max atteinte est: \n");
+    printf("%d", nb2);    
     return 0;
 }
